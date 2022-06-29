@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKHw3VZz/t1NDTH+MVPIl9FvQMk9/2ScwSrpK6lzgw11EUF86pqoxRmFaYXG7ynb3Ki38lf1BQurshZwKM591w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\ProjetoB\\projetob\\ProjetoB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\rabbitmq.client\\5.2.0\\rabbitmq.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
